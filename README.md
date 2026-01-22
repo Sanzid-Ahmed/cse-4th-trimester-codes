@@ -1,6 +1,6 @@
 # 📊 Data Structures & Algorithms (DSA) – 4 Trimester Journey
 
-<img src="Gemini_Generated_Image_v0yrbsv0yrbsv0yr.png" />
+<img src="ChatGPT Image Jan 22, 2026, 07_50_55 PM.png" />
 
 This repository contains my **Data Structures & Algorithms (DSA)** learning and practice codes completed across **four trimesters**.  
 The goal of this repository is to build a **strong foundation in problem-solving, time complexity analysis, and core data structures** using **C and C++**.
